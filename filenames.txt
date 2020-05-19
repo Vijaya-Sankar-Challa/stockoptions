@@ -1,0 +1,16 @@
+aDatanifty.json
+anifty_190520.json
+banknifty_180520.json
+banknifty_190520.json
+Databanknifty.json
+Datanifty.json
+nifty_120520.json
+nifty_130520.json
+nifty_140520.json
+nifty_150520.json
+nifty_180520.json
+nifty_190520.json
+oidata.json
+oi_data_130520.json
+oi_data_140520.json
+oi_data_150520.json
